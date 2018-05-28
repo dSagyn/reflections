@@ -3,7 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-	
+	It is a separate state that git puts a file into before it will commit it. It allows you to check the status of a file before you add it to a commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
